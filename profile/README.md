@@ -4,12 +4,16 @@ Olá pessoal! 👋
 
 Bem-vindos ao espaço oficial da turma no GitHub!
 
+<br />
+
 ## 🎯 Aqui vamos...
 
 * Compartilhar materiais, projetos e códigos desenvolvidos em aula;
 * Praticar o uso de Git e GitHub em ambientes colaborativos conforme o cenário real no mercado de trabalho;
 * Organizar as entregas das atividades;
 * Incentivar boas práticas de desenvolvimento de software.
+
+<br />
 
 ## 🤝 Colaboração
 
@@ -19,8 +23,12 @@ O conhecimento técnico é essencial, mas o desenvolvimento de software é uma a
 
 Este espaço foi criado para que todos possam **aprender**, **compartilhar experiências**, **ajudar colegas** e **evoluir juntos**, desenvolvendo tanto habilidades técnicas quanto profissionais que serão importantes ao longo da carreira.
 
+<br />
+
 ## 💡 Lembre-se
 
 Todo desenvolvedor começou escrevendo suas primeiras linhas de código. Errar, testar, corrigir e evoluir faz parte do processo de aprendizagem.
+
+<br />
 
 Bons estudos e bora codar! 🚀
