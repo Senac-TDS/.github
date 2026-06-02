@@ -1,12 +1,26 @@
-## Hi there 👋
+# 👨‍💻 Curso Técnico em Desenvolvimento de Sistemas - Senac-RS
 
-<!--
+Olá pessoal! 👋
 
-**Here are some ideas to get you started:**
+Bem-vindos ao espaço oficial da turma no GitHub!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🎯 Aqui vamos...
+
+* Compartilhar materiais, projetos e códigos desenvolvidos em aula;
+* Praticar o uso de Git e GitHub em ambientes colaborativos conforme o cenário real no mercado de trabalho;
+* Organizar as entregas das atividades;
+* Incentivar boas práticas de desenvolvimento de software.
+
+## 🤝 Colaboração
+
+**Colaboração** é a palavra chave para nos tornamos ótimos profissionais!
+
+O conhecimento técnico é essencial, mas o desenvolvimento de software é uma atividade colaborativa. Valorize a **troca de conhecimento**, a **comunicação** e o **trabalho em equipe**.
+
+Este espaço foi criado para que todos possam **aprender**, **compartilhar experiências**, **ajudar colegas** e **evoluir juntos**, desenvolvendo tanto habilidades técnicas quanto profissionais que serão importantes ao longo da carreira.
+
+## 💡 Lembre-se
+
+Todo desenvolvedor começou escrevendo suas primeiras linhas de código. Errar, testar, corrigir e evoluir faz parte do processo de aprendizagem.
+
+Bons estudos e bora codar! 🚀
