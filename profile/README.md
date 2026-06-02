@@ -22,6 +22,18 @@ Bem-vindos ao espaço oficial da turma no GitHub!
 
 <br />
 
+## 🔗 Links úteis
+
+Em breve...
+
+<br />
+
+## 📅 Avisos e eventos
+
+Em breve...
+
+<br />
+
 ## 🤝 Colaboração
 
 **Colaboração** é a palavra chave para nos tornamos bons profissionais!
