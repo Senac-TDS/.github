@@ -1,8 +1,18 @@
 # 👨‍💻 Técnico em Desenvolvimento de Sistemas - Senac/Rio Grande
 
+<div align="center">
+
 Olá pessoal! 👋
 
-Bem-vindos ao espaço oficial da turma no GitHub!
+Bem-vindos ao **espaço oficial da turma no GitHub!**
+
+<img
+    src="../assets/mindblowing.gif"
+    alt="Programador"
+    width="500"
+/>
+
+</div>
 
 <br />
 
@@ -22,21 +32,17 @@ Bem-vindos ao espaço oficial da turma no GitHub!
 
 <br />
 
-## 📅 Avisos e eventos
-
-Em breve...
-
-<br />
-
 ## 🔗 Links úteis
 
+- [**Documentação de tecnologias para construção de páginas web (W3Schools)**](https://www.w3schools.com/)
 - [**Figma para desgin de interfaces**](https://www.figma.com/)
+
 
 <br />
 
 ## 📝 Tutoriais
 
-Em breve...
+- [**Git e GitHub: Fluxo Básico de Trabalho Colaborativo**](tutorials/01-git-e-github-fluxo-basico-de-trabalho-colaborativo.md)
 
 <br />
 
@@ -56,4 +62,22 @@ Todo desenvolvedor começou escrevendo suas primeiras linhas de código. Errar, 
 
 <br />
 
+## 📱 Acesse pelo celular
+
+<div align="center">
+
+<p>
+Escaneie o <b>QR Code</b> abaixo para acessar a organização da turma pelo celular.
+</p>
+
+<img
+    src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://github.com/Senac-TDS"
+    alt="QR Code da organização Senac-TDS"
+/>
+
+🔗 https://github.com/Senac-TDS
+
+<br />
+
 **Bons estudos e bora codar!** 🚀
+</div>
