@@ -17,7 +17,7 @@ Bem-vindos ao espaço oficial da turma no GitHub!
 
 ## 📚 Unidades curriculares
 
-[**UC12: Desenvolver e organizar interface de usuário e elementos visuais para aplicações web (front-end)**](https://github.com/Senac-TDS/UC12-desenvolver-e-organizar-ui-e-elementos-para-apps-web)
+- [**UC12: Desenvolver e organizar interface de usuário e elementos visuais para aplicações web (front-end)**](https://github.com/Senac-TDS/UC12-desenvolver-e-organizar-ui-e-elementos-para-apps-web)
 
 <br />
 
