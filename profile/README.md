@@ -1,4 +1,4 @@
-# 👨‍💻 Curso Técnico em Desenvolvimento de Sistemas - Senac-RS
+# 👨‍💻 Técnico em Desenvolvimento de Sistemas - Senac-RS
 
 Olá pessoal! 👋
 
