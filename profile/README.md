@@ -30,7 +30,7 @@ Em breve...
 
 ## 🔗 Links úteis
 
-Em breve...
+- [**Figma para desgin de interfaces**](https://www.figma.com/)
 
 <br />
 
