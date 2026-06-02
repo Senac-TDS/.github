@@ -22,13 +22,19 @@ Bem-vindos ao espaço oficial da turma no GitHub!
 
 <br />
 
+## 📅 Avisos e eventos
+
+Em breve...
+
+<br />
+
 ## 🔗 Links úteis
 
 Em breve...
 
 <br />
 
-## 📅 Avisos e eventos
+## 📝 Tutoriais
 
 Em breve...
 
