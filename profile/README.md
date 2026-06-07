@@ -35,7 +35,7 @@ Bem-vindos ao **espaço oficial da turma no GitHub!**
 ## 🔗 Links úteis
 
 - [**Documentação de tecnologias Web (W3Schools)**](https://www.w3schools.com/)
-- [**Extensões do VSCode utilizadas durante o curso**](content/01-vscode-extensions.md)
+- [**Extensões do VSCode utilizadas durante o curso**](../content/01-vscode-extensions.md)
 - [**Figma para design de interfaces**](https://www.figma.com/)
 
 
@@ -43,10 +43,10 @@ Bem-vindos ao **espaço oficial da turma no GitHub!**
 
 ## 📝 Tutoriais
 
-- [**Git e GitHub: Instalação e Configuração Inicial**](tutorials/01-git-setup.md)
-- [**Git e GitHub: Comandos básicos**](tutorials/02-git-basics.md)
-- [**Git e GitHub: Uso no Projeto Integrador**](tutorials/03-git-usage-pi.md)
-- [**Git e GitHub: Uso em atividades das UC's**](tutorials/04-git-usage-activities.md)
+- [**Git e GitHub: Instalação e Configuração Inicial**](../tutorials/01-git-setup.md)
+- [**Git e GitHub: Comandos básicos**](../tutorials/02-git-basics.md)
+- [**Git e GitHub: Uso no Projeto Integrador**](../tutorials/03-git-usage-pi.md)
+- [**Git e GitHub: Uso em atividades das UC's**](../tutorials/04-git-usage-activities.md)
 
 <br />
 
