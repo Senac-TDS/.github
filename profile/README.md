@@ -34,15 +34,19 @@ Bem-vindos ao **espaço oficial da turma no GitHub!**
 
 ## 🔗 Links úteis
 
-- [**Documentação de tecnologias para construção de páginas web (W3Schools)**](https://www.w3schools.com/)
-- [**Figma para desgin de interfaces**](https://www.figma.com/)
+- [**Documentação de tecnologias Web (W3Schools)**](https://www.w3schools.com/)
+- [**Extensões do VSCode utilizadas durante o curso**](content/01-vscode-extensions.md)
+- [**Figma para design de interfaces**](https://www.figma.com/)
 
 
 <br />
 
 ## 📝 Tutoriais
 
-- [**Git e GitHub: Fluxo Básico de Trabalho Colaborativo**](tutorials/01-git-e-github-fluxo-basico-de-trabalho-colaborativo.md)
+- [**Git e GitHub: Instalação e Configuração Inicial**](tutorials/01-git-setup.md)
+- [**Git e GitHub: Comandos básicos**](tutorials/02-git-basics.md)
+- [**Git e GitHub: Uso no Projeto Integrador**](tutorials/03-git-usage-pi.md)
+- [**Git e GitHub: Uso em atividades das UC's**](tutorials/04-git-usage-activities.md)
 
 <br />
 
