@@ -15,6 +15,8 @@ Esta extensão não oficial integra o Draw.io ao VS Code, permitindo criar e edi
 
 - [Portuguese (Brazil) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR): Pacote de idiomas para extensão de português (Brasil).
 
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Formatador de código usando Prettier.
+
 ### Adicionais:
 
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap): Faça capturas de tela impecáveis ​​do seu código.
