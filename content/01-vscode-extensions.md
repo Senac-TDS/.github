@@ -6,6 +6,8 @@
 
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Execute trechos de código ou arquivos de código em várias linguagens a partir de um clique.
 
+- [CSS Variable Autocomplete](https://marketplace.visualstudio.com/items?itemName=vunguyentuan.vscode-css-variables): Autocompletar com suporte a variáveis ​​CSS, CSS, SCSS, LESS, PostCSS, VueJS, ReactJS e muito mais.
+
 - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio): 
 Esta extensão não oficial integra o Draw.io ao VS Code, permitindo criar e editar seus arquivos de diagramas.
 
