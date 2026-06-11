@@ -11,6 +11,9 @@
 - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio): 
 Esta extensão não oficial integra o Draw.io ao VS Code, permitindo criar e editar seus arquivos de diagramas.
 
+- [lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin): 
+Realce de sintaxe, verificação de tipos e preenchimento automático de código para lit-html.
+
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Inicie um servidor local de desenvolvimento com recurso de recarregamento automático para páginas estáticas e dinâmicas.
 
 - [Portugol - VisuAlg](https://marketplace.visualstudio.com/items?itemName=DudsTecnologia.portugol-visualg-vscode): Suporte completo ao Portugol/VisuAlg no VS Code: syntax highlighting, interpretador, autocomplete e muito mais.
