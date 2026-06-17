@@ -35,6 +35,7 @@ Bem-vindos ao **espaço oficial da turma no GitHub!**
 ## 🔗 Links úteis
 
 - [**Documentação de tecnologias Web (W3Schools)**](https://www.w3schools.com/)
+- [**Documentação JavaScript MDN**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [**Extensões do VSCode utilizadas durante o curso**](../content/01-vscode-extensions.md)
 - [**Figma para design de interfaces**](https://www.figma.com/)
 - [**Ideias e inspirações para escrever arquivos README.md nos projetos**](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
