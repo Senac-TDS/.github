@@ -34,12 +34,12 @@ Bem-vindos ao **espaço oficial da turma no GitHub!**
 
 ## 🔗 Links úteis
 
+- [**Catálogo de ícones Material UI**](https://fonts.google.com/icons?hl=pt-br)
 - [**Documentação de tecnologias Web e outras (W3Schools)**](https://www.w3schools.com/)
 - [**Documentação JavaScript (MDN)**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [**Extensões do VSCode utilizadas durante o curso**](../content/01-vscode-extensions.md)
 - [**Figma para design de interfaces de usuário**](https://www.figma.com/)
 - [**Ideias e inspirações para escrever arquivos README.md nos projetos**](https://github.com/abhisheknaiidu/awesome-github-profile-readme)]
-- [**Catálogo de ícones Material UI**](https://fonts.google.com/icons?hl=pt-br)
 - [**Tecnologia para criar API para testes (Mock API)**](https://mockapi.io/)
 
 
